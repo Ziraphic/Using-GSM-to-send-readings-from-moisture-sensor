@@ -1,0 +1,2 @@
+# Using-GSM-to-send-readings-from-moisture-sensor
+It is a big issue to know the soil moisture without direct contact to the zone where the moisture sensor is located or other weather station. This issue leads to different effects especially where such information is too important. This prototype uses Arduino Uno board which is easy to be programmed and economical. The way it is programmed, the moisture sensor will sense the moisture in the soil, and send and give values of moisture according to the wetness or dryness of soil to the Arduino board. 
